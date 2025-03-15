@@ -1,6 +1,6 @@
 **Инструкция по запуску проекта**
 
-1.Клонируйте репозиторий: 'https://github.com/Marat1506/team.git'
+1.Клонируйте репозиторий: 'git clone https://github.com/Marat1506/team.git'
 
 
 2.Запустите проект с помощью Docker Compose: 'docker-compose up --build'
